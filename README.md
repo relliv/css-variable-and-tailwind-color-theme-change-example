@@ -47,3 +47,5 @@ export default {
 ```
 
 That's all.
+
+> But there is a problem with this method. Tailwind can't track CSS variables and with this method we can't use opacity property over colors like `bg-nx-theme-100/70`.
